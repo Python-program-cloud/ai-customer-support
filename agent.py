@@ -1,4 +1,5 @@
 import os
+import streamlit as st
 from typing import Annotated, TypedDict
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
@@ -10,8 +11,9 @@ from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 
 # ── API kľúč ──────────────────────────────────────────────
+if "GROQ_API_KEY" in st.secrets:
+    os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
 
-os.environ["GROQ_API_KEY"] = os.environ.get("GROQ_API_KEY", "")
 
 # ── LLM (zadarmo cez Groq) ────────────────────────────────
 llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0)
@@ -94,3 +96,4 @@ builder.add_edge("answer", END)
 builder.add_edge("escalate", END)
 
 agent = builder.compile()
+
