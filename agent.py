@@ -1,6 +1,11 @@
 import os
 import streamlit as st
 from typing import Annotated, TypedDict
+
+# ── API kľúč – načítaj PRED inicializáciou LLM ────────────
+if "GROQ_API_KEY" in st.secrets:
+    os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
+
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 from langchain_community.document_loaders import TextLoader
@@ -10,12 +15,7 @@ from langchain_community.embeddings import FastEmbedEmbeddings
 from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 
-# ── API kľúč ──────────────────────────────────────────────
-if "GROQ_API_KEY" in st.secrets:
-    os.environ["GROQ_API_KEY"] = st.secrets["GROQ_API_KEY"]
-
-
-# ── LLM (zadarmo cez Groq) ────────────────────────────────
+# ── LLM ───────────────────────────────────────────────────
 llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0)
 
 # ── Knowledge base (RAG) ──────────────────────────────────
@@ -25,7 +25,6 @@ docs = loader.load()
 splitter = RecursiveCharacterTextSplitter(chunk_size=300, chunk_overlap=30)
 chunks = splitter.split_documents(docs)
 
-# Embeddings zadarmo – beží lokálne, nepotrebuješ žiadny API kľúč
 embeddings = FastEmbedEmbeddings()
 vectorstore = Chroma.from_documents(chunks, embeddings)
 retriever = vectorstore.as_retriever()
@@ -96,4 +95,3 @@ builder.add_edge("answer", END)
 builder.add_edge("escalate", END)
 
 agent = builder.compile()
-
