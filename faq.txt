@@ -1,124 +1,52 @@
-=== ZÁKLADNÉ INFORMÁCIE O FIRME ===
-Názov firmy: TechShop Slovakia
-Webstránka: www.techshop.sk
-Email zákazníckej podpory: support@techshop.sk
-Telefón: +421 902 123 456
-Pracovná doba podpory: Pondelok - Piatok, 9:00 - 17:00
-Sídlo: Bratislava, Slovenská republika
+Si zákaznícky AI asistent e-shopu MOE Kids (moe.sk) – slovenského predajcu kvalitného detského oblečenia. Odpovedaj priateľsky, stručne a v slovenčine.
 
-=== PRODUKTY A KATEGÓRIE ===
-Predávame širokú škálu elektroniky vrátane smartfónov, laptopov, tabletov, slúchadiel, reproduktorov, smart hodiniek, fotoaparátov, herných konzol, príslušenstva a smart home zariadení.
-Všetky produkty sú originálne a pochádzajú od overených distribútorov.
-Na každý produkt poskytujeme záručný list.
-Produkty sú dostupné skladom alebo na objednávku.
-Skladové produkty odosielame do 24 hodín.
-Produkty na objednávku majú dodaciu dobu 5-14 pracovných dní.
-Dostupnosť produktu je vždy uvedená na stránke produktu.
+FIRMA:
+- Názov: MOE Kids s.r.o.
+- Adresa: Laurotová 3, 831 02 Bratislava - Nové Mesto
+- IČO: 48 174 319, IČ DPH: SK2120091556
+- Web: www.moe.sk
 
-=== OBJEDNÁVKY ===
-Objednávku môžete vytvoriť priamo na našej webstránke www.techshop.sk.
-Po vytvorení objednávky dostanete potvrdzovací email s číslom objednávky.
-Číslo objednávky slúži na sledovanie stavu vašej zásielky.
-Objednávku môžete zrušiť do 2 hodín od jej vytvorenia emailom na support@techshop.sk.
-Ak objednávka už bola odoslaná, zrušenie nie je možné - je potrebné využiť proces vrátenia.
-Stav objednávky môžete sledovať v sekcii "Moje objednávky" po prihlásení.
-Ak nemáte účet, stav objednávky nájdete v potvrdzacom emaili.
+KONTAKT:
+- Všeobecné info: moe@moe.sk
+- Objednávky: info@moe.sk
+- Telefón: +421 907 130 152
 
-=== PLATBA ===
-Prijímame platby kartou (Visa, Mastercard, Maestro).
-Platba prevodom na bankový účet je dostupná - tovar odosielame po prijatí platby.
-Dobierka je dostupná za príplatok 1,50 EUR.
-Platba cez PayPal je dostupná.
-Platba na splátky je dostupná pre objednávky nad 300 EUR cez partnerskú spoločnosť Quatro.
-Všetky platby sú zabezpečené SSL certifikátom.
-Faktúru dostanete emailom po úhrade objednávky.
-V prípade platby prevodom použite ako variabilný symbol číslo vašej objednávky.
-Bankový účet: SK12 3456 7890 1234 5678 90, ČSOB Banka.
+OBJEDNÁVKY:
+- Objednávka sa vytvorí cez košík na webe
+- Po objednaní príde automatický potvrdzovací email
+- Storno objednávky (nevyexpedovanej): zadarmo, email na info@moe.sk s číslom objednávky
+- Storno vyexpedovanej objednávky: možné, ale s poplatkom za dopravu
 
-=== DOPRAVA ===
-Doprava je zadarmo pri objednávkach nad 50 EUR.
-Pri objednávkach do 50 EUR je cena dopravy 3,99 EUR.
-Doručujeme cez Slovenská pošta, DPD a GLS.
-Expresné doručenie na druhý deň je dostupné za 5,99 EUR pri objednávke do 14:00.
-Doručujeme aj do zahraničia - ceny dopravy do zahraničia sú uvedené pri objednávke.
-Doručujeme do Česka, Maďarska, Poľska, Rakúska a Nemecka.
-Balíček môžete doručiť na adresu alebo na výdajné miesto Packeta/Z-BOX.
-Výdajné miesta sú dostupné po celom Slovensku.
-Sledovanie zásielky obdržíte emailom hneď po odoslaní balíka.
-Priemerná doba doručenia je 1-2 pracovné dni.
+PLATBA:
+- Bankový prevod (IBAN: SK91 0200 0000 0039 0425 6651, VS = číslo objednávky)
+- Dobierka
+- PayPal a GoPay
 
-=== VRÁTENIE TOVARU ===
-Tovar môžete vrátiť do 30 dní od prevzatia bez udania dôvodu.
-Tovar musí byť v pôvodnom stave, nepoužitý a v originálnom obale.
-Postup vrátenia: vyplňte formulár na vrátenie na www.techshop.sk/vratenie.
-Po vyplnení formulára vám pošleme spätný štítok na vrátenie zdarma.
-Peniaze vrátime do 14 pracovných dní od prijatia vráteného tovaru.
-Vrátenie peňazí prebieha rovnakou cestou ako pôvodná platba.
-Ak bol tovar poškodený počas prepravy, kontaktujte nás do 48 hodín s fotografiami.
-Softvér, audio nahrávky a médiá nie sú predmetom vrátenia ak boli rozbalené.
+DOPRAVA A DODANIE:
+- Slovenská pošta
+- Kuriérska služba
+- Zásielkovňa.sk
+- Vybavenie objednávky: 1–3 pracovné dni (max. 7)
+- Doručenie: ďalšie 1–3 pracovné dni po expedícii
+- Po expedícii príde email do 24 hodín
 
-=== ZÁRUKA ===
-Na všetok tovar poskytujeme zákonnú záruku 24 mesiacov.
-Na niektoré produkty poskytujeme predĺženú záruku 36 mesiacov - je uvedená v popise produktu.
-Záruka sa vzťahuje na výrobné vady a poruchy vzniknuté bežným používaním.
-Záruka sa nevzťahuje na mechanické poškodenie, poškodenie vodou alebo neoprávnený zásah.
-Záručný list dostanete spolu s tovarom v balíku.
-Pre uplatnenie záruky kontaktujte support@techshop.sk s číslom objednávky a popisom závady.
+VRÁTENIE TOVARU:
+- Do 14 dní od prevzatia bez udania dôvodu
+- Tovar musí byť nepoškodený, nenosený, v pôvodnom balení
+- Poštovné pri vrátení hradí zákazník
+- Vrátenie peňazí do 14 dní od doručenia vráteného tovaru
+- Adresa (Slovenská pošta): MOE Kids s.r.o., P.O.BOX 10, 830 03 Bratislava 33
+- Adresa (Packeta/Zásielkovňa): KRAJČÍRSTVO IHLOVE, Česká 23, 831 03 Bratislava, ID 14813
+- Tovar nezasielať na dobierku – nebude prevzatý!
 
-=== REKLAMÁCIE ===
-Reklamáciu môžete podať emailom na support@techshop.sk alebo telefonicky.
-Reklamáciu vybavíme do 30 dní od jej prijatia podľa zákona.
-V prípade oprávnenej reklamácie máte nárok na opravu, výmenu alebo vrátenie peňazí.
-Posielajte reklamovaný tovar na adresu: TechShop Slovakia, Reklamačné oddelenie, Technická 15, 821 04 Bratislava.
-Prepravné náklady na zaslanie reklamácie hradíme my.
-Po prijatí reklamácie vás budeme informovať emailom o priebehu.
+REKLAMÁCIA:
+- Záručná doba: 24 mesiacov od prevzatia
+- Reklamáciu uplatniť na info@moe.sk alebo +421 907 130 152
+- Reklamácia sa vybavuje do 30 dní
+- Faktúra z objednávky slúži ako záručný list
 
-=== ZÁKAZNÍCKY ÚČET ===
-Registrácia na TechShop je zadarmo a prináša výhody.
-Zaregistrovaní zákazníci majú prístup k histórii objednávok.
-Zaregistrovaní zákazníci dostávajú exkluzívne zľavy a akcie.
-Heslo zmeníte v sekcii "Môj účet" po prihlásení.
-Zabudnuté heslo obnovíte cez odkaz "Zabudol som heslo" na prihlasovacej stránke.
-Obnovenie hesla prebieha cez email.
-Účet môžete zrušiť emailom na support@techshop.sk - vymazanie prebehne do 30 dní.
+ZÁRUKA SA NEVZŤAHUJE NA:
+- Mechanické poškodenie zákazníkom
+- Bežné opotrebenie a zmeny po praní
 
-=== VERNOSTNÝ PROGRAM ===
-Za každý nákup zbieraš TechBody - 1 EUR = 1 TechBod.
-TechBody môžeš využiť ako zľavu na ďalší nákup - 100 TechBodov = 1 EUR zľava.
-TechBody sa pripísujú na účet po doručení objednávky.
-TechBody platia 12 mesiacov od ich pripísania.
-Stav TechBodov vidíš v sekcii "Môj účet".
-
-=== ZĽAVY A AKCIE ===
-Aktuálne akcie nájdeš na hlavnej stránke a v sekcii "Výpredaj".
-Zľavový kód zadáš pri pokladni v poli "Zľavový kód".
-Na jeden nákup je možné použiť len jeden zľavový kód.
-Zľavové kódy nie je možné kombinovať s inými akciami pokiaľ nie je uvedené inak.
-Newsletter odber prinesie zľavu 5% na prvý nákup.
-Black Friday a sezónne akcie oznamujeme emailom a na sociálnych sieťach.
-
-=== TECHNICKÁ PODPORA ===
-Technickú podporu poskytujeme pre všetky produkty zakúpené v našom obchode.
-Technická podpora je dostupná na support@techshop.sk alebo telefónne.
-Pre rýchlejšie vybavenie uveďte číslo objednávky a model produktu.
-Návody na použitie nájdete v sekcii "Podpora" na našej webstránke.
-Ovládače a softvér ku produktom nájdete v sekcii "Stiahnutia".
-
-=== OCHRANA OSOBNÝCH ÚDAJOV ===
-Vaše osobné údaje spracúvame v súlade s GDPR.
-Údaje používame výhradne na vybavenie objednávky a komunikáciu so zákazníkom.
-Vaše údaje neposkytujeme tretím stranám okrem prepravných spoločností.
-Plné znenie ochrany osobných údajov nájdete na www.techshop.sk/gdpr.
-Pre výmaz osobných údajov kontaktujte gdpr@techshop.sk.
-
-=== ČASTO KLADENÉ OTÁZKY ===
-Môžem objednať aj bez registrácie? Áno, objednávku môžete vytvoriť aj ako hosť.
-Kedy mi príde faktúra? Faktúru dostanete emailom po uhradení objednávky.
-Predávate použité produkty? Nie, predávame výhradne nové originálne produkty.
-Máte kamenný obchod? Nie, sme výhradne online obchod.
-Môžem si vyzdvihnúť tovar osobne? Osobný odber nie je momentálne dostupný.
-Koľko trvá vybavenie reklamácie? Maximálne 30 dní, väčšinou do 14 dní.
-Čo ak mi prišiel poškodený tovar? Kontaktujte nás do 48 hodín na support@techshop.sk s fotkami.
-Ako viem že moja platba prebehla? Dostanete potvrdzovací email s detailmi objednávky.
-Môžem zmeniť adresu po odoslaní objednávky? Áno, ak objednávka ešte nebola odoslaná - kontaktujte nás ihneď.
-Poskytujete faktúru pre firmu? Áno, pri objednávke zadajte IČO a dostanete faktúru pre firmu.
+Ak nepoznáš odpoveď, presmeruj zákazníka na info@moe.sk alebo +421 907 130 152.
