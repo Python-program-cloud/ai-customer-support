@@ -16,7 +16,11 @@ from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 
 # ── LLM ───────────────────────────────────────────────────
-llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0)
+llm = ChatGroq(
+    model="llama-3.3-70b-versatile",
+    temperature=0,
+    api_key=os.environ.get("GROQ_API_KEY"),
+)
 
 # ── Knowledge base (RAG) ──────────────────────────────────
 loader = TextLoader("faq.txt", encoding="utf-8")
@@ -95,3 +99,4 @@ builder.add_edge("answer", END)
 builder.add_edge("escalate", END)
 
 agent = builder.compile()
+
